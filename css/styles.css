@@ -131,6 +131,21 @@ select:focus{
   color: #3a4050;
   font-size: 1rem;
 }
+
+.creator {
+  position: fixed;
+  bottom: 15px;
+  right: 15px;
+  width: 40px;
+  height: 40px;
+  background: #fff;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  object-fit: contain;
+  border-radius: 50%;
+}
+
 /* fonts */
 
 .poppins-thin {
